@@ -1,0 +1,6 @@
+{
+  "name": "LB Exchanger",
+  "description": "Premium financial exchange and calculator platform for USD, IDR, and KHR with admin panel control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
